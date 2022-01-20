@@ -1,7 +1,7 @@
 # 💡 Welcome
 * SQL, programmers SQL 문제 풀이 스터디입니다
 
-## 👨‍👨‍👧‍👦 Contibute (Git ID)
+## 👨‍👨‍👧‍👦 Contibute (git id)
 * [RyuMyunggi](https://github.com/RyuMyunggi)
 
 ## ⚽️ 스터디 목표
@@ -10,9 +10,9 @@
 ## 📁 파일 및 폴더 구조
 * 문제풀이 디렉토리
   * 플랫폼/카테고리/문제명/본인이름.file
-  * ex) prgrammers/SELECT/모든레코드조회하기/류명기.py
+  * ex) prgrammers/SELECT/류명기_모든레코드조회하기.py
 * 스터디 디렉토리(SQL 관련 개념 정리)
-  * 본인이름/주제.file
+  * git_id/주제.file
   * ex) 홍길동/쿼리튜닝하기.md
 * 공유 디렉토리
   * readme.md에 함깨 공유하고 싶은 영상 링크나 블로그 링크를 첨부한다
