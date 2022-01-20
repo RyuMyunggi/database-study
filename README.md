@@ -18,6 +18,9 @@
   * readme.md에 함깨 공유하고 싶은 영상 링크나 블로그 링크를 첨부한다
   * ex) sql 문법 정리 (홍길동): https://velog.io/@ygh7687/SQL-%EB%AC%B8%EB%B2%95-%EC%A0%95%EB%A6%AC
 
+## Brach 규칙
+* 본인 깃 id
+
 ## 🔐 문제 풀이 규칙
 * 최소 30분 - 60분까지 고민해본다
 * 어렵다면 바로 답을 보는 것이 아닌 개념 이해를 참고한다
@@ -35,7 +38,7 @@
 * PR title은 문제카테고리_문제이름_본인이름
 * ex) SELECT_모든레코드조회하기_홍길동
 ### 📍 merge
-* 팀원과 리뷰를 나눈 후 main branch에 merge 진행
+* 팀원과 리뷰를 나눈 후 본인 브랜치에서 origin main branch에 merge 진행
 
 ## 🌟 review 
 * 자신의 의견을 망설이지 않고 표출하는 것이 중요!
