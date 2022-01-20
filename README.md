@@ -18,7 +18,7 @@
   * readme.md에 함깨 공유하고 싶은 영상 링크나 블로그 링크를 첨부한다
   * ex) sql 문법 정리 (홍길동): https://velog.io/@ygh7687/SQL-%EB%AC%B8%EB%B2%95-%EC%A0%95%EB%A6%AC
 
-## Brach 규칙
+## 💭 Brach 규칙
 * 본인 깃 id
 
 ## 🔐 문제 풀이 규칙
